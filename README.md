@@ -1,7 +1,9 @@
 
-#  PRRR Robot Manipulator – Pick & Place Simulation
+#  PDE4431 COURSEWORK2
 
 An interactive 3D simulation of a **4-DOF PRRR robotic manipulator** developed in Python.
+## GitHub Repository
+🔗 https://github.com/iram100/pde4431_cw2
 The robot is capable of **picking three objects from the floor** and **placing them onto three shelves at different heights**, fully validated in simulation.
 
 This project demonstrates **robot kinematics, inverse kinematics, trajectory animation, and user interaction**, developed as part of a robotic manipulation coursework.
@@ -21,7 +23,7 @@ The robot is tested **purely in simulation**, following standard engineering pra
 
 ---
 
-## 📌 Task Description
+##  Task Description
 
 The robot is required to:
 
